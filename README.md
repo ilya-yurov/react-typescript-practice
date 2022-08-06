@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=30&width=600&lines=React+%2B+Typescript+practice+projec" alt="Typing SVG" /></a>
 </h1>
 
-<h2 align="center"><a  href="https://ilya-yurov.github.io/social_network">Live Demo</a></h2>
+<h2 align="center"><a  href="https://ilya-yurov.github.io/react-typescript-practice/">Live Demo</a></h2>
 
 ![non-optimized-gif](https://user-images.githubusercontent.com/76982614/183244336-96d8c407-022d-4299-bf19-aef493b49814.gif)
 
