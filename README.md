@@ -1,46 +1,26 @@
-# Getting Started with Create React App
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=30&width=600&lines=React+%2B+Typescript+practice+projec" alt="Typing SVG" /></a>
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2 align="center"><a  href="https://ilya-yurov.github.io/social_network">Live Demo</a></h2>
 
-## Available Scripts
+![non-optimized-gif](https://user-images.githubusercontent.com/76982614/183244336-96d8c407-022d-4299-bf19-aef493b49814.gif)
 
-In the project directory, you can run:
+As a teaching aid, I used a [course](https://www.youtube.com/watch?v=OJ16BaPC6VI&list=WL&index=10&ab_channel=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BB%D0%B5%D0%BD%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD) from Vladilen Minin.
+In this project I don't use CSS/SCSS and make styles with Tailwind CSS.
 
-### `npm start`
+## Technologies used in the creation process:
+| **Tailvind CSS** | **React Hooks** | **Typescript** | **react-router-dom** | **Context** |
+**etc.**
+## How to build this project:
+**You need pre-installed NodeJS, npm and Git.**
+**You can check your packages version by**
+### `node -v` `npm -v` and `git --version`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+**1. First clone repository to your working dirrectory by**
+### `git clone https://github.com/ilya-yurov/react-typescript-practice`
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+**2. Then install all required packages by**
+### `npm install`
+**3. Now you can start or build the project from your working dir by**
+### `npm start` or `npm build`
