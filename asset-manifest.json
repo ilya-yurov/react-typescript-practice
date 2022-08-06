@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ilya-yurov/react-typescript-practice/static/css/main.09c5f88e.css",
+    "main.js": "/ilya-yurov/react-typescript-practice/static/js/main.a448043a.js",
+    "index.html": "/ilya-yurov/react-typescript-practice/index.html",
+    "main.09c5f88e.css.map": "/ilya-yurov/react-typescript-practice/static/css/main.09c5f88e.css.map",
+    "main.a448043a.js.map": "/ilya-yurov/react-typescript-practice/static/js/main.a448043a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09c5f88e.css",
+    "static/js/main.a448043a.js"
+  ]
+}
